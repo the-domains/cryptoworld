@@ -1,0 +1,14 @@
+layout_spectrum: 0.9520814006682485
+typography_spectrum: 0.8993740612640977
+color:
+  brandStrength: 0.872121162712574
+  lightness: 0.500505493953824
+  saturation: 0.31875813310034573
+  rhythmicContrast: 0.3102470531594008
+  brandColors:
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+name: Cryptoworld
