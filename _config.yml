@@ -1,3 +1,4 @@
+layout_spectrum: 0.9520814006682485
 typography_spectrum: 0.8993740612640977
 color:
   brandStrength: 0.872121162712574
@@ -10,7 +11,4 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-layout_spectrum: 0.9520814006682485
-name: Tech Vikings
-title: Tech Vikings
-description: Tech news for awesome people
+name: Cryptoworld
